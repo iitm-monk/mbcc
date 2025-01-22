@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MBCC Conference 2025</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>MBCC Conference 2025</h1>
+            <p>A Unique Platform for Consciousness, Brain Sciences, and Cognitive Wellness</p>
+        </div>
+    </header>
+
+    <main>
+        <section id="about">
+            <div class="container">
+                <h2>About the Initiative</h2>
+                <p><strong>Mind, Brain, and Consciousness Conference (MBCC)</strong></p>
+                <p><strong>Theme:</strong> "Consciousness and LLMs: A Synergistic Approach to Intelligence"</p>
+                <p>The Mind, Brain, and Consciousness Conference (MBCC) at IIT Mandi (June 4–7) serves as a unique platform to explore the intersections of Consciousness, Brain Sciences, and Cognitive Wellness. This year, the conference centers around the theme “Consciousness and LLMs: A Synergistic Approach to Intelligence,” inviting researchers to submit papers and insights on how cutting-edge AI technologies, particularly Large Language Models (LLMs), can advance our understanding of human cognition and intelligence.</p>
+            </div>
+        </section>
+
+        <section id="curiosity">
+            <div class="container">
+                <h2>Curiosity and Consciousness</h2>
+                <p>While necessity drives invention, curiosity propels exploration and discovery. It is curiosity that challenges boundaries, leading to a deeper understanding of consciousness. From intuitive decisions to the ways we process and respond to the unknown, curiosity connects us to the complexities of awareness and inspires transformative innovations. MBCC calls for research that examines these links, fostering interdisciplinary dialogue on how curiosity shapes the mind and brain.</p>
+            </div>
+        </section>
+
+        <section id="llms">
+            <div class="container">
+                <h2>LLMs and Consciousness</h2>
+                <p>Large Language Models (LLMs) and Generative AI are revolutionizing the study of intelligence, offering tools to simulate aspects of human cognition. By bridging human-machine interactions through Natural Language Processing (NLP), they enable knowledge sharing, cultural expression, and emotional connectivity. However, their lack of genuine consciousness underscores the importance of Reinforcement Learning with Human Feedback (RLHF) and other methodologies to align AI systems with human intelligence and ethical reasoning.</p>
+            </div>
+        </section>
+
+        <section id="language">
+            <div class="container">
+                <h2>Language and Consciousness</h2>
+                <p>Language, as a core aspect of consciousness, links inner thoughts with culture, knowledge, and emotion. LLMs extend these connections by analyzing, generating, and interpreting language, paving the way for deeper cognitive and cultural understanding. MBCC encourages research that explores the potential of LLMs to align more closely with human cognitive and cultural frameworks.</p>
+            </div>
+        </section>
+
+        <section id="call-for-papers">
+            <div class="container">
+                <h2>Call for Papers</h2>
+                <ul>
+                    <li>Advancing AI tools for consciousness studies</li>
+                    <li>Exploring curiosity as a driver of intelligence and awareness</li>
+                    <li>Bridging human and machine intelligence through LLMs and NLP</li>
+                    <li>Addressing ethical and philosophical challenges in AI development</li>
+                    <li>Integrating ancient wisdom and modern technologies for cognitive wellness</li>
+                </ul>
+                <p><strong>Important Dates:</strong></p>
+                <ul>
+                    <li><strong>Submission Deadline:</strong> 10 March, 2025</li>
+                    <li><strong>Notification of Acceptance:</strong> 31 March, 2025</li>
+                    <li><strong>Camera-Ready Submission:</strong> 15 April, 2025</li>
+                    <li><strong>Conference Dates:</strong> 4–7 June, 2025</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="keynote">
+            <div class="container">
+                <h2>Keynote Speaker</h2>
+                <p><strong>Dr. Ganesh Ramakrishnan</strong><br>
+                Professor, IIT Bombay</p>
+                <p>Dr. Ganesh Ramakrishnan, a leading researcher in Artificial Intelligence (AI), Machine Learning, and Natural Language Processing (NLP), will deliver a keynote at MBCC 2025. Known for his pioneering work on BharatGen, the first government-funded multimodal LLM project for Indian languages, and Udaan, an innovative translation ecosystem, Dr. Ramakrishnan bridges AI with cognitive science to address real-world challenges.</p>
+                <p>His keynote will explore the synergy between AI advancements and consciousness studies, offering transformative insights into how technology can deepen our understanding of human cognition and enhance cognitive wellness.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 MBCC Conference. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
